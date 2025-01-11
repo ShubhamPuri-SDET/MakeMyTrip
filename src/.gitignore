@@ -1,0 +1,44 @@
+# System files
+/Config.Msi/
+/Documents and Settings/
+/Recovery/OEM/
+/System Volume Information/
+
+# Files with weird characters or names
+/#*.xls
+/#*.doc
+/#*.jpg
+/#*.pptx
+/$*.doc
+/$*.xls
+/$*.jpg
+/$*.pptx
+
+# Files and directories from other locations
+../../$Recycle.Bin/
+../../Automation/
+../../Blogs/
+../../Coding/
+../../DumpStack.log
+../../DumpStack.log.tmp
+../../Excel VBA Automation/
+../../Git/
+../../Java-2/
+../../Java/
+../../JavaSelenium Projects/
+../../JavaSeleniumProjects/
+../../MediaAutomation/
+../../Must install/
+../../OneDriveTemp/
+../../Program Files (x86)/
+../../Program Files/
+../../ProgramData/
+../../Recovery/
+../../Users/
+../../Windows/
+../../apache-maven-3.9.6/
+../../hiberfil.sys
+../../image/
+../../pagefile.sys
+../../selenium/
+../../swapfile.sys
