@@ -15,7 +15,7 @@ This framework follows industry-standard best practices with **Page Object Model
 - 📄 **Rich HTML reports** generated with Extent Reports
 - 🧪 **TestNG** for test orchestration
 
-
+-----
 ## 🧰 Tech Stack
 
 | Tool                 | Purpose                      |
@@ -27,10 +27,10 @@ This framework follows industry-standard best practices with **Page Object Model
 | Extent Reports       | Test reporting               |
 | Apache POI / OpenCSV | Read test data               |
 | Log4j                | Logging                      |
-
+-----
 
 ## 📁 Project Structure
-
+```
 MakeMyTrip-Automation/
 ├── src/
 │ ├── main/
@@ -49,7 +49,7 @@ MakeMyTrip-Automation/
 ├── .gitignore
 └── README.md
 
-
+```
 ### 🔧 Prerequisites
 
 * Java JDK 8+
